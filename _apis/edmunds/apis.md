@@ -1,4 +1,3 @@
----
 name: Edmunds
 description: >-
   To access Edmunds content, REST APIs are used to retrieve a JSON data object
@@ -10,8 +9,8 @@ image: >-
   https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/edmunds-developer-network-welcome-to-the-edmunds-api-edmunds-developer-portal.png
 url: >-
   https://example.com/apis/edmunds-developer-network-welcome-to-the-edmunds-api-edmunds-developer-portal.yml
-created: 2024-07-11
-modified: 2024-07-11
+created: 2024-07-11T00:00:00.000Z
+modified: 2024-07-11T00:00:00.000Z
 specificationVersion: '0.18'
 tags:
   - Automobiles
@@ -28,10 +27,11 @@ apis:
         url: https://api.edmunds.com/
       - type: OpenAPI
         url: properties/agrio-openapi-original.yml
+    aid: edmunds:edmunds
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
 overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
----
+aid: edmunds

@@ -6,8 +6,8 @@ description: >-
   solar panels and solar shingles, and related products and services.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
-created: 2024-07-11
-modified: 2024-07-11
+created: 2024-07-11T00:00:00.000Z
+modified: 2024-07-11T00:00:00.000Z
 specificationVersion: '0.18'
 tags:
   - Automobiles
@@ -35,7 +35,7 @@ common:
   - type: FAQ
     url: https://developer.tesla.com/docs/fleet-api#faq
   - type: Getting Started
-    url: https://developer.tesla.com/docs           
+    url: https://developer.tesla.com/docs
 maintainers:
   - FN: API Evangelist
     url: http://apievangelist.com

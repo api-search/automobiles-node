@@ -1,3 +1,4 @@
+---
 name: Edmunds
 description: >-
   To access Edmunds content, REST APIs are used to retrieve a JSON data object
@@ -35,3 +36,4 @@ overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
 aid: edmunds
+---

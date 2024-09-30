@@ -1,3 +1,4 @@
+---
 name: Tesla
 description: >-
   Tesla, Inc. is an American multinational automotive and clean energy company
@@ -43,3 +44,4 @@ maintainers:
 overlays:
   - type: APIs.io Search
 aid: tesla
+---
